@@ -25,7 +25,7 @@ body {
 .page-header .container,
 .page-footer .container {
   max-width: 1408px;
-  text-align: right;
+  text-align: left;
 }
 
 .page-header a {
