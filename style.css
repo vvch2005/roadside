@@ -12,7 +12,17 @@ body {
   background-attachment: fixed;
 }
 
-h3 {text-align: 'center';}
+h3 {text-align: center;}
+
+ul {
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+}
+
+p {
+  text-align: center;
+}
 
 .container {
   max-width: 928px;
