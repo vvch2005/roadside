@@ -17,7 +17,7 @@ h3 {text-align: center;}
 
 ul {
   display: block;
-  
+  width: 250px;
   margin: 0 auto;
   text-align: left;
 }
