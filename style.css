@@ -32,7 +32,7 @@ p {
 }
 
 .page-header {
-  margin: 0 0 160px;
+  margin: 0 0 50px;
   padding: 32px 0 32px;
 }
 
@@ -61,7 +61,7 @@ p {
 }
 
 .hero-image {
-  margin-bottom: 620px;
+  margin-bottom: 100px;
 }
 
 .hero-image .container {
