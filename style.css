@@ -25,6 +25,10 @@ p {
   text-align: center;
 }
 
+.under-construction {
+  background-color: yellow;
+}
+
 .container {
   max-width: 928px;
   margin: 0 auto;
