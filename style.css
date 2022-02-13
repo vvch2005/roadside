@@ -16,9 +16,8 @@ h3 {text-align: center;}
 
 
 ul {
-  display: grid;
-  padding: 0 330px 0;
-  text-align: left;
+  list-style-type: none;
+  text-align: center;
   }
 
 
