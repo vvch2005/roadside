@@ -17,8 +17,8 @@ h3 {text-align: center;}
 
 ul {
   display: grid;
-  padding: 0 300px 0;
-  text-align: center;
+  padding: 0 330px 0;
+  text-align: left;
   }
 
 
@@ -83,7 +83,7 @@ p {
 }
 
 .hero-image p {
-  margin: 0;
+  margin: 0 0 20px;
   font-size: 32px;
   line-height: 48px;
 }
