@@ -16,9 +16,10 @@ h3 {text-align: center;}
 
 
 ul {
+  display: grid;
+  padding: 0 330px 0;
   text-align: center;
-  list-style-type: none;
-}
+  }
 
 
 p {
@@ -88,7 +89,7 @@ p {
 }
 
 .intro {
-  margin: 0 0 120px;
+  margin: 0 0 32px;
 }
 
 .subheading {
